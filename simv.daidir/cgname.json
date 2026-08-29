@@ -1,0 +1,80 @@
+{
+    "_vcs_DPI_package": [
+        "_vcs_DPI_package",
+        "uM9F1",
+        "module",
+        6
+    ],
+    "vcs_paramclassrepository": [
+        "vcs_paramclassrepository",
+        "hEeZs",
+        "module",
+        7
+    ],
+    "_vcs_unit__215913630": [
+        "_vcs_unit__215913630",
+        "SbfAt",
+        "module",
+        8
+    ],
+    "std": [
+        "std",
+        "reYIK",
+        "module",
+        1
+    ],
+    "uvm_pkg": [
+        "uvm_pkg",
+        "zr7M1",
+        "module",
+        9
+    ],
+    "_vcs_msglog": [
+        "_vcs_msglog",
+        "zQBzV",
+        "module",
+        10
+    ],
+    "uvm_custom_install_recording": [
+        "uvm_custom_install_recording",
+        "nhiwz",
+        "module",
+        11
+    ],
+    "uvm_custom_install_verdi_recording": [
+        "uvm_custom_install_verdi_recording",
+        "EbjT3",
+        "module",
+        12
+    ],
+    "axi_interconnect_wrap_2x8": [
+        "axi_interconnect_wrap_2x8",
+        "F2Bt9",
+        "module",
+        3
+    ],
+    "arbiter": [
+        "arbiter",
+        "ujx5M",
+        "module",
+        13
+    ],
+    "priority_encoder_0000": [
+        "priority_encoder_0000",
+        "VTikG",
+        "module",
+        2
+    ],
+    "tb_axi_interconnect_wrap_2x8": [
+        "tb_axi_interconnect_wrap_2x8",
+        "qGLUz",
+        "module",
+        4
+    ],
+    "...MASTER...": [
+        "SIM",
+        "amcQw",
+        "module",
+        5
+    ]
+}
