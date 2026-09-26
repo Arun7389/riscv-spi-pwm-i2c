@@ -1,9 +1,0 @@
-{"vcs1":{"timestamp_begin":1787998606.809425595, "rt":1.81, "ut":0.25, "st":0.04}}
-{"vcselab":{"timestamp_begin":1787998608.653767706, "rt":2.40, "ut":0.11, "st":0.04}}
-{"link":{"timestamp_begin":1787998611.076270895, "rt":0.12, "ut":0.09, "st":0.03}}
-{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1787998606.616581867}
-{"VCS_COMP_START_TIME": 1787998606.616581867}
-{"VCS_COMP_END_TIME": 1787998611.225325875}
-{"VCS_USER_OPTIONS": "-sverilog -full64 -timescale=1ns/1ps -P /home/student/snps_tools_target/verdi/U-2023.03-SP1/share/PLI/VCS/linux64/novas.tab /home/student/snps_tools_target/verdi/U-2023.03-SP1/share/PLI/VCS/linux64/pli.a rtl/interconnect/arbiter.v rtl/interconnect/priority_encoder.v rtl/interconnect/axi_interconnect.v rtl/axi_interconnect_wrap_2x8.v tb_axi_interconnect_wrap_2x8.sv -o simv_2x8"}
-{"vcs1": {"peak_mem": 375136}}
-{"vcselab": {"peak_mem": 251804}}

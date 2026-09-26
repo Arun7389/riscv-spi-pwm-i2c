@@ -1,9 +1,0 @@
-{"vcs1":{"timestamp_begin":1788002655.994040044, "rt":7.65, "ut":5.54, "st":0.17}}
-{"vcselab":{"timestamp_begin":1788002663.677480297, "rt":1.67, "ut":0.12, "st":0.04}}
-{"link":{"timestamp_begin":1788002665.372469492, "rt":0.54, "ut":0.32, "st":0.11}}
-{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1788002655.775236676}
-{"VCS_COMP_START_TIME": 1788002655.775236676}
-{"VCS_COMP_END_TIME": 1788002665.995613363}
-{"VCS_USER_OPTIONS": "-full64 -sverilog -ntb_opts uvm -timescale=1ns/1ps -debug_access+all -kdb -f /home/student/Documents/hon_070/proj_dir/run/run.f -l compile.log"}
-{"vcs1": {"peak_mem": 534048}}
-{"vcselab": {"peak_mem": 260292}}

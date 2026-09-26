@@ -1,5 +1,0 @@
-{"vcs1":{"timestamp_begin":1788004232.943957703, "rt":1.50, "ut":0.02, "st":0.02}}
-{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1788004232.725641590}
-{"VCS_COMP_START_TIME": 1788004232.725641590}
-{"VCS_COMP_END_TIME": 1788004234.467772313}
-{"VCS_USER_OPTIONS": "-full64 -sverilog -ntb_opts uvm -timescale=1ns/1ps -debug_access+all -kdb -f /home/student/Documents/hon_070/proj_dir/run/run.f -l compile.log"}

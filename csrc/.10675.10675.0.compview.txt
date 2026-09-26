@@ -1,6 +1,0 @@
-Command exited with non-zero status 127
-{"vcs1":{"timestamp_begin":1788001831.470131078, "rt":0.01, "ut":0.00, "st":0.00}}
-{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1788001829.752651893}
-{"VCS_COMP_START_TIME": 1788001829.752651893}
-{"VCS_COMP_END_TIME": 1788001831.511751066}
-{"VCS_USER_OPTIONS": "-f run.f -debug_access+all -kdb -top tb_axi_interconnect_wrap_2x8 -o simv"}
